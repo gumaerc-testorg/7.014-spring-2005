@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains solutions on understanding the basis, complementation
   and epistasis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-014-introductory-biology-spring-2005/9f1d33d872256e9aa9274e990e5d6263_section11_ak.pdf
+file: /media/courses/7-014-introductory-biology-spring-2005/9f1d33d872256e9aa9274e990e5d6263_section11_ak.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: section11_ak.pdf
 uid: 9f1d33d8-7225-6e9a-a927-4e990e5d6263

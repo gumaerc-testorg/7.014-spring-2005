@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-014-introductory-biology-spring-2005/68eec230a3da199388f43bddefd78b6b_l5x9qAVUK7s.pdf
+file: /media/courses/7-014-introductory-biology-spring-2005/68eec230a3da199388f43bddefd78b6b_l5x9qAVUK7s.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 68eec230-a3da-1993-88f4-3bddefd78b6b

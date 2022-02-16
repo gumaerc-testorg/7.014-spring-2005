@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Unit Questions
 uid: 8e6f371b-9263-7080-9df3-2ea299d37f32
 ---
@@ -475,7 +477,7 @@ Limiting Factors and BioGeoChemical Cycles
 
 Why is it important that the nutrients cycle through the biosphere?
 
-The flux of CO2 to the atmosphere due to human activities is only a small fraction of the flux due to global respiration. Why, then, is it causing a significant increase in the reservoir of CO2 in the atmosphere?
+The flux of CO{{< sub "2" >}} to the atmosphere due to human activities is only a small fraction of the flux due to global respiration. Why, then, is it causing a significant increase in the reservoir of CO{{< sub "2" >}} in the atmosphere?
 
 
 {{< tdclose >}}

@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains solutions on  xenopustropicalis, reproductionof
   a species, endosymbiotic theory and ecologist.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-014-introductory-biology-spring-2005/4b45158ac69c3c55478baeed62ec4576_ps8s.pdf
+file: /media/courses/7-014-introductory-biology-spring-2005/4b45158ac69c3c55478baeed62ec4576_ps8s.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ps8s.pdf
 uid: 4b45158a-c69c-3c55-478b-aeed62ec4576

@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-014-introductory-biology-spring-2005/d52c954221c80ddfef4ef3666d07352a_lec21.jpg
+file: /media/courses/7-014-introductory-biology-spring-2005/d52c954221c80ddfef4ef3666d07352a_lec21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec21.jpg
 uid: d52c9542-21c8-0ddf-ef4e-f3666d07352a

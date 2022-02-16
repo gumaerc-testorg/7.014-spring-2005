@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains solutions on conversion, Euprymna scolopes, trees
   or edible plants and biogeochemical cycles.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-014-introductory-biology-spring-2005/99256ca34d026a931d2f636b34a5c532_ps5s.pdf
+file: /media/courses/7-014-introductory-biology-spring-2005/99256ca34d026a931d2f636b34a5c532_ps5s.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ps5s.pdf
 uid: 99256ca3-4d02-6a93-1d2f-636b34a5c532
