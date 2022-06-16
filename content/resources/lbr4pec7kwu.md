@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-014-introductory-biology-spring-2005/54a94b9ad76424511064af667b6a0d5c_LBR4pEC7kwU.srt
+file: /courses/7-014-introductory-biology-spring-2005/54a94b9ad76424511064af667b6a0d5c_LBR4pEC7kwU.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the course material.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -49,7 +50,7 @@ Freeman. Chapter 1, pp. 1-15.
 Biochemistry I
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture Handout: Biochemistry I-III ([PDF]({{< baseurl >}}/resources/biochem1_3))
+Lecture Handout: Biochemistry I-III ({{% resource_link ced76b9e-43c8-662e-79cc-38f0aba1561b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +78,7 @@ Biochemistry III
 
 Freeman. Chapter 4, pp. 71-77.
 
-Lecture Handout: Luria Experiment ([PDF]({{< baseurl >}}/resources/lec4_luria_exp))
+Lecture Handout: Luria Experiment ({{% resource_link 8adb7177-e5c2-4644-d0fb-c71c0c33155d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -91,7 +92,7 @@ Lecture Handout: Luria Experiment ([PDF]({{< baseurl >}}/resources/lec4_luria_ex
 Biochemistry IV
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture Handout: Biochemistry III and IV ([PDF]({{< baseurl >}}/resources/l5_bioche_deltag))
+Lecture Handout: Biochemistry III and IV ({{% resource_link 09508eb4-025e-ac92-d7a3-e954e3ec46f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ Biochemistry V
 
 Freeman. Chapter 6.
 
-Lecture Handout: Biochemistry V-VI ([PDF]({{< baseurl >}}/resources/biochem5_6))
+Lecture Handout: Biochemistry V-VI ({{% resource_link 376f62ab-a7dc-47dd-7431-5b763dfdae95 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -223,7 +224,7 @@ Gene Regulation II
 
 Freeman. Chapter 11, pp 217-229.
 
-Lecture Handout: Biochemical Genetics ([PDF]({{< baseurl >}}/resources/l14_bioche_genet))
+Lecture Handout: Biochemical Genetics ({{% resource_link 256c3e8c-2ac6-7794-d1f2-0ae4fd611367 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -253,7 +254,7 @@ The Biosphere
 
 Freeman. Chapter 3, pp. 40-67.
 
-Lecture Handout: The Biosphere and Carbon and Energy Metabolism ([PDF]({{< baseurl >}}/resources/l16_17_carb_ener))
+Lecture Handout: The Biosphere and Carbon and Energy Metabolism ({{% resource_link 7a7efd99-316d-e874-15f9-d360cda0fa51 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -275,7 +276,7 @@ Kasting, James F., and J. L. Siefert. "Life and the Evolution of Earth's Atmosph
 
 Von Dover, C. L., et al. "Evolution and Biogeography of Deep-Sea Vent and Seep Invertebrates." _Science_ 295, no. 5558 (February 15, 2002): 1253-1257.
 
-Lecture Handout: Redox Chemistry Handout ([PDF]({{< baseurl >}}/resources/l17_redox_handou))
+Lecture Handout: Redox Chemistry Handout ({{% resource_link 15eea5de-42fc-49d5-85af-93884e92716a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -295,7 +296,7 @@ Freeman. Chapter 51, pp. 989-995.
 
 Broad, William J. "Too Rich a Soil: Scientists Find the Flaw That Undid the Biosphere." _New York Times (1857-Current file), ProQuest Historical Newspapers The New York Times_ (Oct 5, 1993): C1.
 
-Lecture Handout: Productivity ([PDF]({{< baseurl >}}/resources/l18_productivity))
+Lecture Handout: Productivity ({{% resource_link 0b92b112-5a29-535d-aaf3-9f9081e90150 "PDF" %}})
 
 
 {{< tdclose >}}

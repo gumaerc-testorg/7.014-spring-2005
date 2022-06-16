@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-014-introductory-biology-spring-2005/da781c618b18a9b83fa387c4fa527140_lec20.jpg
+file: /courses/7-014-introductory-biology-spring-2005/da781c618b18a9b83fa387c4fa527140_lec20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
