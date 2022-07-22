@@ -9,6 +9,7 @@ file: /courses/7-014-introductory-biology-spring-2005/da7040c5e81d1e68550620afa3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: da7040c5-e81d-1e68-5506-20afa30fb608
 ---
 This resource includes the following topics:
 Land-water, sunlight, and nutrients, Ocean-sunlight, and nutrients, Biosynthesis and nutrient regeneration along gradients, upwelling in ocean critical, and Redfield ratio.
-

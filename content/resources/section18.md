@@ -6,6 +6,7 @@ file: /courses/7-014-introductory-biology-spring-2005/7a7ec79fbdb72a2a6d4e0ea305
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: section18.pdf
 uid: 7a7ec79f-bdb7-2a2a-6d4e-0ea305ba97a9
 ---
 This resource contains questions on library construction and application-solve a mystery.
-

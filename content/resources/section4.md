@@ -6,6 +6,7 @@ file: /courses/7-014-introductory-biology-spring-2005/029df1b14f7c45585ab3276139
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: section4.pdf
 uid: 029df1b1-4f7c-4558-5ab3-27613911251f
 ---
 This resource contains questions on Why do we care, thermodynamics, kinetics, energy currency and glycolysis.
-

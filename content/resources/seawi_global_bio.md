@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: seawi_global_bio.jpg
 uid: 8f5b20c3-ae81-52c6-b25c-b5683afadfc0
 ---
 The global biosphere. The Normalized Difference Vegetation Index measures the amount and health of plants on land, while chlorophyll measurements indicate the amount of phytoplankton in the ocean. (Image courtesy of the SeaWiFS Project, NASA/Goddard Space Flight Center, and ORBIMAGE.)
-

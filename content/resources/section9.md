@@ -7,6 +7,7 @@ file: /courses/7-014-introductory-biology-spring-2005/db5fb98bf614ca8ae72d47a47e
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: db5fb98b-f614-ca8a-e72d-47a47ea6cd15
 ---
 This resource contains questions on
 gene regulation basics and gene regulation?an example.
-

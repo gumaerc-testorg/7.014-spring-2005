@@ -8,6 +8,7 @@ file: /courses/7-014-introductory-biology-spring-2005/4d36220254ddbce0454bfc7fbb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 4d362202-54dd-bce0-454b-fc7fbbaf6f54
 ---
 This resource includes the following topics:
 Population Age Distribution, Life Tables, Survivorship Curves, Density-Dependant Factors Regulate Population Size, and Human Population Growth.
-

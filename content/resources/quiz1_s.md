@@ -5,6 +5,7 @@ file: /courses/7-014-introductory-biology-spring-2005/b7afc686be066c101fa2ebd888
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1_s.pdf
 uid: b7afc686-be06-6c10-1fa2-ebd888448837
 ---
 This resource contains solutions file of Quiz 1.
-

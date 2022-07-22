@@ -7,6 +7,7 @@ file: /courses/7-014-introductory-biology-spring-2005/ea07268c0755df4ec4c6762b3f
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: ea07268c-0755-df4e-c4c6-762b3f71a8f6
 ---
 This resource contains questions on
 carbon and energy options, and problem solving.
-

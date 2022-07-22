@@ -8,6 +8,7 @@ file: /courses/7-014-introductory-biology-spring-2005/aa828e7c7ae1ed3a696e470deb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: aa828e7c-7ae1-ed3a-696e-470debf21182
 ---
 This resource incldues the following topics:
 Analysis of global productivity, Energy flow through trophic levels and ecosystems, and Three weeks in the life of a food web.
-

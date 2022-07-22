@@ -7,6 +7,7 @@ file: /courses/7-014-introductory-biology-spring-2005/cdce1ff6ec4dbbee9fb96346d0
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: cdce1ff6-ec4d-bbee-9fb9-6346d009c41d
 ---
 This resource contains questions of following topics:
 biogeochemical cycles, genetics and recombinant DNA.
-
