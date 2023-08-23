@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF](resources/lectur17_handout-1 "Open in a new
-  window."))
+related_resources_text: Handout ({{% resource_link "497cb02b-3875-8e7e-e6ef-ebece7d6fc6d"
+  "PDF" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: 5WqgNOSoD_M
 ---
-
 **Topics covered:** Carbon and Energy Metabolism  
   
 **Instructor:** Prof. Penny Chisholm
-

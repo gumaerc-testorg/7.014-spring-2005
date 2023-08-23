@@ -10,7 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF](resources/7_0142005l19 "Open in a new window."))
+related_resources_text: Handout ({{% resource_link "98f7a455-cbe8-f30e-c7fb-80bda11bdc1b"
+  "PDF" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -24,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: 4owydSnRHuE
 ---
-
 **Topics covered:** Regulation of Productivity  
   
 **Instructor:** Prof. Penny Chisholm
-
