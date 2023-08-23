@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF - 1.1 MB](resources/lectur16_handout "Open in
-  a new window."))
+related_resources_text: Handout ({{% resource_link "4f325143-f221-a8ab-4212-b7c058a8e074"
+  "PDF - 1.1 MB" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: gaHQ_1Sp5_s
 ---
-
 **Topics covered:** The Biosphere  
   
 **Instructor:** Prof. Penny Chisholm
-

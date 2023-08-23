@@ -10,7 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF](resources/7_0142005l20 "Open in a new window."))
+related_resources_text: Handout ({{% resource_link "aa43626d-bc0e-cf9f-4e16-cbc753363570"
+  "PDF" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -24,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: zIXGgyOwtUk
 ---
-
 **Topics covered:** Limiting Factors and Biogeochemical Cycles  
   
 **Instructor:** Prof. Penny Chisholm
-
