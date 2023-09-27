@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF - 1.7 MB](resources/lec33_35_handout "Open in
-  a new window."))
+related_resources_text: Handout ({{% resource_link "c51a4544-643f-aa84-9a39-8c031d0962fc"
+  "PDF - 1.7 MB" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: 5_QWoGFUPaI
 ---
-
 **Topics covered:** Communities II  
   
 **Instructor:** Prof. Penny Chisholm
-

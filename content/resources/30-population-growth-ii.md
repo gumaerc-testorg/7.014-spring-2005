@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF](resources/lec29n30_handout-1 "Open in a new
-  window."))
+related_resources_text: Handout ({{% resource_link "4d362202-54dd-bce0-454b-fc7fbbaf6f54"
+  "PDF" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: rKquepVheyM
 ---
-
 **Topics covered:** Population Growth II  
   
 **Instructor:** Prof. Penny Chisholm
-

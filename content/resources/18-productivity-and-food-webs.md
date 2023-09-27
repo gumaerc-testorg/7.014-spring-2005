@@ -10,8 +10,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Handout ([PDF](resources/lectur18_handout-1 "Open in a new
-  window."))
+related_resources_text: Handout ({{% resource_link "bd73ed6f-56a4-8db5-59c7-aab85598f2b6"
+  "PDF" %}})
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -25,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: hWdAt9SzP0I
 ---
-
 **Topics covered:** Productivity and Food Webs  
   
 **Instructor:** Prof. Penny Chisholm
-
