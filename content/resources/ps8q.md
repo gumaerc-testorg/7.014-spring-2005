@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on xenopustropicalis, reproductionof
   a species, endosymbiotic theory and ecologist.
 file: /courses/7-014-introductory-biology-spring-2005/8eff9c249b09d0472eac97510071ae67_ps8q.pdf
+file_size: 76646
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

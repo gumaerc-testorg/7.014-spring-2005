@@ -4,6 +4,7 @@ description: 'This resource contains solutions on
 
   gene regulation basics and gene regulation?an example.'
 file: /courses/7-014-introductory-biology-spring-2005/ce04ee368854e44206865eb71a557d39_section9_ak.pdf
+file_size: 58981
 file_type: application/pdf
 learning_resource_types:
 - Recitations

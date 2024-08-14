@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on DNA as genetic material and DNA replication.
 file: /courses/7-014-introductory-biology-spring-2005/9538497209370c2e82209b08fb82f659_section7.pdf
+file_size: 56494
 file_type: application/pdf
 learning_resource_types:
 - Recitations

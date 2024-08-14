@@ -5,6 +5,7 @@ description: The global biosphere. The Normalized Difference Vegetation Index me
   the amount of phytoplankton in the ocean. (Image courtesy of the SeaWiFS Project,
   NASA/Goddard Space Flight Center, and ORBIMAGE.)
 file: /courses/7-014-introductory-biology-spring-2005/8f5b20c3ae8152c6b25cb5683afadfc0_seawi_global_bio.jpg
+file_size: 38268
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions which based on reading of article, hemoglobin
   and kinetic energy.
 file: /courses/7-014-introductory-biology-spring-2005/f85d401be7f10166e67b0bba10db2773_pset1s.pdf
+file_size: 99814
 file_type: application/pdf
 learning_resource_types:
 - Assignments

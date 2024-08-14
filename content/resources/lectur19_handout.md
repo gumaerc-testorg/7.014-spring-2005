@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   and nutrient regeneration along gradients, upwelling in ocean critical, and Redfield
   ratio.'
 file: /courses/7-014-introductory-biology-spring-2005/da7040c5e81d1e68550620afa30fb608_lectur19_handout.pdf
+file_size: 755604
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

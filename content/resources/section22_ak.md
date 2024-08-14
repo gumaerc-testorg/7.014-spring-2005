@@ -3,6 +3,7 @@ content_type: resource
 description: This resoource contains solutions on CBS protein in yeast and humans
   and phylogenetic analysis.
 file: /courses/7-014-introductory-biology-spring-2005/7398cb84a966cacc44c8bf807ccc60c8_section22_ak.pdf
+file_size: 78898
 file_type: application/pdf
 learning_resource_types:
 - Recitations
