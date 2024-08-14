@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions file of Quiz 1.
 file: /courses/7-014-introductory-biology-spring-2005/b7afc686be066c101fa2ebd888448837_quiz1_s.pdf
+file_size: 257928
 file_type: application/pdf
 learning_resource_types:
 - Exams

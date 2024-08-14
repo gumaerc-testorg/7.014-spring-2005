@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains descriptions which based on fig of lec4 luria
   exp.
 file: /courses/7-014-introductory-biology-spring-2005/8adb7177e5c24644d0fbc71c0c33155d_lec4_luria_exp.pdf
+file_size: 22971
 file_type: application/pdf
 learning_resource_types:
 - Readings

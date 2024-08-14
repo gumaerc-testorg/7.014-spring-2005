@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-014-introductory-biology-spring-2005/9a37141f8b89da6b8294d81d296e9eaf_Section6Review.pdf
+file_size: 61852
 file_type: application/pdf
 learning_resource_types:
 - Recitations

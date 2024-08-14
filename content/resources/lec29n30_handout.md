@@ -4,6 +4,7 @@ description: This resource contains descriptions of  population age distribution
   developed countries, less developed countries, life tables, survivorship curves,
   a cohort life table and human population growth.
 file: /courses/7-014-introductory-biology-spring-2005/8d804096e153716473568c2543019a0f_lec29n30_handout.pdf
+file_size: 160050
 file_type: application/pdf
 learning_resource_types:
 - Readings

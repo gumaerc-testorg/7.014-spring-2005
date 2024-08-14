@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions on CBS proteins, 3D representation,
   Protein gels and analyzing the data and interpreting the results
 file: /courses/7-014-introductory-biology-spring-2005/130107e1db84211fec2913827a2c8656_section3_ak.pdf
+file_size: 48422
 file_type: application/pdf
 learning_resource_types:
 - Recitations

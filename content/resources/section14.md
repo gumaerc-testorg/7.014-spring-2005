@@ -4,6 +4,7 @@ description: 'This resource contains questions on
 
   carbon and energy in a food Web. steady state and non-steady state.'
 file: /courses/7-014-introductory-biology-spring-2005/df99692289167b5c146ed60084b91a92_section14.pdf
+file_size: 52512
 file_type: application/pdf
 learning_resource_types:
 - Recitations

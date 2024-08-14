@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions on carbon and energy options, and problem
   solving.
 file: /courses/7-014-introductory-biology-spring-2005/90e06091d16a2997f78d5e8957f189fd_section13_ak.pdf
+file_size: 39259
 file_type: application/pdf
 learning_resource_types:
 - Recitations

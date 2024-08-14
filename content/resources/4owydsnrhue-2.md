@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-014-introductory-biology-spring-2005/51aa0631178c598cbf0c97bf859489bc_4owydSnRHuE.vtt
+file_size: 49107
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions and solutions based on origin of replication,
   sevenohwunforin, enzymes and mutant.
 file: /courses/7-014-introductory-biology-spring-2005/d5f58214ff3ed35b4543998652d82e91_quiz2ho.pdf
+file_size: 386527
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on chromosomes and recombination, pedigrees.
 file: /courses/7-014-introductory-biology-spring-2005/4d839bdd7d361c766e62ba60ce880a47_section16.pdf
+file_size: 28071
 file_type: application/pdf
 learning_resource_types:
 - Recitations

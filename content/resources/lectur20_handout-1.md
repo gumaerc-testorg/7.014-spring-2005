@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   Cycle, Global Nitrogen-Transformations, The Global Nitrogen Cycle, and The Global
   Carbon Cycle.'
 file: /courses/7-014-introductory-biology-spring-2005/1a85b7a31923e31dbf6b9ca1ba581d52_lectur20_handout.pdf
+file_size: 536936
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

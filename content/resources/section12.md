@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on representations.
 file: /courses/7-014-introductory-biology-spring-2005/0e26f9bbcf01dc1161c7003f1c901911_section12.pdf
+file_size: 174663
 file_type: application/pdf
 learning_resource_types:
 - Recitations
