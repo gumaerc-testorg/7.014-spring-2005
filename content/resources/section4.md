@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on Why do we care, thermodynamics, kinetics,
   energy currency and glycolysis.
 file: /courses/7-014-introductory-biology-spring-2005/029df1b14f7c45585ab327613911251f_section4.pdf
+file_size: 186273
 file_type: application/pdf
 learning_resource_types:
 - Recitations

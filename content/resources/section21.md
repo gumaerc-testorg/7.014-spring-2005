@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on cohort life table and replacement
   rates.
 file: /courses/7-014-introductory-biology-spring-2005/e9a6f853923cb3cfeb3c14894ad7de9b_section21.pdf
+file_size: 50029
 file_type: application/pdf
 learning_resource_types:
 - Recitations

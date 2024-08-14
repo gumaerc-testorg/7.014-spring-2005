@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains descriptions of  global nutrient cycling -biogeochemical
   cycles, the geologic cycle, water cycle and biosphere II experiment.
 file: /courses/7-014-introductory-biology-spring-2005/2a00e250b3f3d86c7a0e3e025a52baf8_lectur20_handout.pdf
+file_size: 976824
 file_type: application/pdf
 learning_resource_types:
 - Readings

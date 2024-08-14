@@ -4,6 +4,7 @@ description: This resource contains problems and their solutions based on Euprym
   scolopes, squid facility, structures and molecules, protein, yeast metabolic pathway,
   true or false, common genetic condition, and hypothetical chromosomal region.
 file: /courses/7-014-introductory-biology-spring-2005/eb3cdcd0ebcc731e615df12b57de84c4_final_handout.pdf
+file_size: 213759
 file_type: application/pdf
 learning_resource_types:
 - Exams

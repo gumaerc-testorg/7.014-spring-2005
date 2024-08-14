@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on RNA, genomic structure, enzymes and
   genes.
 file: /courses/7-014-introductory-biology-spring-2005/90fa5d2c6fe8cd0c3e5512a456fa3c9d_ps4q.pdf
+file_size: 78412
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

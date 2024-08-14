@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions on library construction and application-solve
   a mystery.
 file: /courses/7-014-introductory-biology-spring-2005/709630149fc4be87778e3b02ad3b1a56_section18_ak.pdf
+file_size: 90217
 file_type: application/pdf
 learning_resource_types:
 - Recitations

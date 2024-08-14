@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions on DNA, replication, Martian organisms
   and RNA.
 file: /courses/7-014-introductory-biology-spring-2005/a46768c7e6658161c6709ded2551344a_ps3s.pdf
+file_size: 49344
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

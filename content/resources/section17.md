@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on the tools and application.
 file: /courses/7-014-introductory-biology-spring-2005/cb3f66015e23c5df7b3dbc2aebcfaa3f_section17.pdf
+file_size: 56088
 file_type: application/pdf
 learning_resource_types:
 - Recitations
