@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions on representations.
-file: /courses/7-014-introductory-biology-spring-2005/5dea217ff7ff5b3eaae591159dffa23d_section12_ak.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/5dea217ff7ff5b3eaae591159dffa23d_section12_ak.pdf
 file_size: 254865
 file_type: application/pdf
 learning_resource_types:

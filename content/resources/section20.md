@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on antibody production, immunology and
   immunizations and immunology and central dogma.
-file: /courses/7-014-introductory-biology-spring-2005/c0723c485b8156faeb24edb0482dbe1c_section20.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/c0723c485b8156faeb24edb0482dbe1c_section20.pdf
 file_size: 75071
 file_type: application/pdf
 learning_resource_types:

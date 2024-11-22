@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-014-introductory-biology-spring-2005/3d7227aea280510d93ec4e9e0034b1bb_SGHx6jKvxr8.vtt
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/3d7227aea280510d93ec4e9e0034b1bb_SGHx6jKvxr8.vtt
 file_size: 44749
 file_type: application/x-subrip
 learning_resource_types: []

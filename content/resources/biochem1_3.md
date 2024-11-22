@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains descriptions of carbohydrates, nucleic acids,
   structures of amino acids at pH 7.0, proteins, lipids and phospholipids.
-file: /courses/7-014-introductory-biology-spring-2005/ced76b9e43c8662e79cc38f0aba1561b_biochem1_3.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/ced76b9e43c8662e79cc38f0aba1561b_biochem1_3.pdf
 file_size: 118866
 file_type: application/pdf
 learning_resource_types:
