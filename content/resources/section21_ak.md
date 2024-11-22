@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions on cohort life table and replacement
   rates.
-file: /courses/7-014-introductory-biology-spring-2005/256c27291b75068f2c1112eeda52e101_section21_ak.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/256c27291b75068f2c1112eeda52e101_section21_ak.pdf
 file_size: 56058
 file_type: application/pdf
 learning_resource_types:

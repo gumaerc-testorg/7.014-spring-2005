@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   Population Age Distribution, Life Tables, Survivorship Curves, Density-Dependant
   Factors Regulate Population Size, and Human Population Growth.'
-file: /courses/7-014-introductory-biology-spring-2005/4d36220254ddbce0454bfc7fbbaf6f54_lec29n30_handout.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/4d36220254ddbce0454bfc7fbbaf6f54_lec29n30_handout.pdf
 file_size: 208360
 file_type: application/pdf
 learning_resource_types:
