@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains questions on
 
   gene regulation basics and gene regulation?an example.'
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/db5fb98bf614ca8ae72d47a47ea6cd15_section9.pdf
+file: /courses/7-014-introductory-biology-spring-2005/db5fb98bf614ca8ae72d47a47ea6cd15_section9.pdf
 file_size: 46169
 file_type: application/pdf
 learning_resource_types:

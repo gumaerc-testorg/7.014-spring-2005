@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions on the tools and application.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/3cc9676741f47148bafd0612cd34aa03_section17_ak.pdf
+file: /courses/7-014-introductory-biology-spring-2005/3cc9676741f47148bafd0612cd34aa03_section17_ak.pdf
 file_size: 60426
 file_type: application/pdf
 learning_resource_types:

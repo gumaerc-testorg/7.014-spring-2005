@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains questions of following topics:
 
   biogeochemical cycles, genetics and recombinant DNA.'
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/cdce1ff6ec4dbbee9fb96346d009c41d_section19_review.pdf
+file: /courses/7-014-introductory-biology-spring-2005/cdce1ff6ec4dbbee9fb96346d009c41d_section19_review.pdf
 file_size: 24918
 file_type: application/pdf
 learning_resource_types:

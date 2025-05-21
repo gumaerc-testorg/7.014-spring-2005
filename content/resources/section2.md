@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on shape game.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/471a0044ff0a90f26c1f8377e24ae388_section2.pdf
+file: /courses/7-014-introductory-biology-spring-2005/471a0044ff0a90f26c1f8377e24ae388_section2.pdf
 file_size: 73838
 file_type: application/pdf
 learning_resource_types:

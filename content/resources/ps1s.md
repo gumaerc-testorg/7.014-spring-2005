@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions on  conditions of the atmosphere, test
   tubes contains cells, growth factor receptors and enzyme.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/6790bfd87a4f910ffb41a918e35a2c9e_ps1s.pdf
+file: /courses/7-014-introductory-biology-spring-2005/6790bfd87a4f910ffb41a918e35a2c9e_ps1s.pdf
 file_size: 86258
 file_type: application/pdf
 learning_resource_types: []
