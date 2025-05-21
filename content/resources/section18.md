@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on library construction and application-solve
   a mystery.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/7a7ec79fbdb72a2a6d4e0ea305ba97a9_section18.pdf
+file: /courses/7-014-introductory-biology-spring-2005/7a7ec79fbdb72a2a6d4e0ea305ba97a9_section18.pdf
 file_size: 60946
 file_type: application/pdf
 learning_resource_types:

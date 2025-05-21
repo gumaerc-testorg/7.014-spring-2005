@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the discussion on various species of plants and
   animals.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/c51a4544643faa849a398c031d0962fc_lec33_35_handout.pdf
+file: /courses/7-014-introductory-biology-spring-2005/c51a4544643faa849a398c031d0962fc_lec33_35_handout.pdf
 file_size: 1750593
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on understanding the basis, complementation
   and epistasis.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/2b22c1e1ab7d9947c2844ffd18897f29_section11.pdf
+file: /courses/7-014-introductory-biology-spring-2005/2b22c1e1ab7d9947c2844ffd18897f29_section11.pdf
 file_size: 63410
 file_type: application/pdf
 learning_resource_types:

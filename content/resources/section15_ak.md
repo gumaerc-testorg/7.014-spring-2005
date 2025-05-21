@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions on diploid genetics, chromosomes and
   recombination.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/e6671c17d725cc3d2ef8fb1f63356efd_section15_ak.pdf
+file: /courses/7-014-introductory-biology-spring-2005/e6671c17d725cc3d2ef8fb1f63356efd_section15_ak.pdf
 file_size: 71301
 file_type: application/pdf
 learning_resource_types:

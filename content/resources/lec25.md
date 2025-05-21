@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/75a7f102253e9f278c0e6616a9b036c1_lec25.jpg
+file: /courses/7-014-introductory-biology-spring-2005/75a7f102253e9f278c0e6616a9b036c1_lec25.jpg
 file_size: 2187
 file_type: image/jpeg
 image_metadata:

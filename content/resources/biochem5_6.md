@@ -4,7 +4,7 @@ description: 'This resource contains descriptions of
 
   glycolysis reactions, photosynthesis & electron transport, respiration and ATP synthesis
   from H+ gradient.'
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/376f62aba7dc47dd74315b763dfdae95_biochem5_6.pdf
+file: /courses/7-014-introductory-biology-spring-2005/376f62aba7dc47dd74315b763dfdae95_biochem5_6.pdf
 file_size: 63200
 file_type: application/pdf
 learning_resource_types:

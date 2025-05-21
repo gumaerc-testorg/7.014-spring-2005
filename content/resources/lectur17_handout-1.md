@@ -6,7 +6,7 @@ description: 'Following are the outcomes of this resource:
   have most of the metabolic diversity available, Products of one organism are the
   substrate for another, and Where metabolic pathway is energetically favorable, a
   microbe has evolved to take advantage of it.'
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/099bd3bed625b71dfda8be22b740a610_lectur17_handout.pdf
+file: /courses/7-014-introductory-biology-spring-2005/099bd3bed625b71dfda8be22b740a610_lectur17_handout.pdf
 file_size: 343226
 file_type: application/pdf
 learning_resource_types:

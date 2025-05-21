@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains descriptions of definitions, net vs. gross:, energy
   flow, food webs and efficiencies.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/0b92b1125a29535daaf39f9081e90150_l18_productivity.pdf
+file: /courses/7-014-introductory-biology-spring-2005/0b92b1125a29535daaf39f9081e90150_l18_productivity.pdf
 file_size: 39238
 file_type: application/pdf
 learning_resource_types:

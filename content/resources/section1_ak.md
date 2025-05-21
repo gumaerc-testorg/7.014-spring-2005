@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions on the reading of article 'Mobile Phones
   Can Cut A Man's Fertility By A Third.'
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/71d1853569fb9755b1bba2d6ec0922e4_section1_ak.pdf
+file: /courses/7-014-introductory-biology-spring-2005/71d1853569fb9755b1bba2d6ec0922e4_section1_ak.pdf
 file_size: 29289
 file_type: application/pdf
 learning_resource_types:
