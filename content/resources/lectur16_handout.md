@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a handout on ecology and biosphere distribution.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/4f325143f221a8ab4212b7c058a8e074_lectur16_handout.pdf
+file: /courses/7-014-introductory-biology-spring-2005/4f325143f221a8ab4212b7c058a8e074_lectur16_handout.pdf
 file_size: 1055449
 file_type: application/pdf
 learning_resource_types:

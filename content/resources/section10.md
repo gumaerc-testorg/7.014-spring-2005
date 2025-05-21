@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions based on introduction to mutagenesis
   and mutant hunt-cysteine auxotrophs.
-file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/d9622ce5cd2f52b2d3dc60a75d9e9d03_section10.pdf
+file: /courses/7-014-introductory-biology-spring-2005/d9622ce5cd2f52b2d3dc60a75d9e9d03_section10.pdf
 file_size: 19621
 file_type: application/pdf
 learning_resource_types:
