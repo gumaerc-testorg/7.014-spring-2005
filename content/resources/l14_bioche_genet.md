@@ -4,7 +4,7 @@ description: 'This resource contains descriptions of
 
   biochemical genetics, a model system, making and identifying mutants, replica plating,
   screening and selecting, analyzing the collection of mutants and conclusion.'
-file: /courses/7-014-introductory-biology-spring-2005/256c3e8c2ac67794d1f20ae4fd611367_l14_bioche_genet.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/256c3e8c2ac67794d1f20ae4fd611367_l14_bioche_genet.pdf
 file_size: 56478
 file_type: application/pdf
 learning_resource_types:

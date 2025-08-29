@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains descriptions of  marine food web, biomass and
   energy, energy flow through an ecosystem and photosynthesis
-file: /courses/7-014-introductory-biology-spring-2005/bd73ed6f56a48db559c7aab85598f2b6_lectur18_handout.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/bd73ed6f56a48db559c7aab85598f2b6_lectur18_handout.pdf
 file_size: 371182
 file_type: application/pdf
 learning_resource_types:

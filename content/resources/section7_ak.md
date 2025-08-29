@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions on DNA as genetic material and DNA replication.
-file: /courses/7-014-introductory-biology-spring-2005/0ea6acfc101ccceb5a21b30afa59fd93_section7_ak.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/0ea6acfc101ccceb5a21b30afa59fd93_section7_ak.pdf
 file_size: 98627
 file_type: application/pdf
 learning_resource_types:
