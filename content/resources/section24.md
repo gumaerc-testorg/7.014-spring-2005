@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains questions on
 
   determining severity of disease phenotype.'
-file: /courses/7-014-introductory-biology-spring-2005/f44ec8b002c5624524f25c214410e501_section24.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/f44ec8b002c5624524f25c214410e501_section24.pdf
 file_size: 68153
 file_type: application/pdf
 learning_resource_types:

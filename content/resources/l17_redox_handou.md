@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains descriptions of what is the e- flow and which
   direction will it proceed spontaneously.
-file: /courses/7-014-introductory-biology-spring-2005/15eea5de42fc49d585af93884e92716a_l17_redox_handou.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/15eea5de42fc49d585af93884e92716a_l17_redox_handou.pdf
 file_size: 151272
 file_type: application/pdf
 learning_resource_types:

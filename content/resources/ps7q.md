@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on anti-viral treatment, variety of
   DNA, antibodies, and HIV.
-file: /courses/7-014-introductory-biology-spring-2005/0c05c2edcdff87bad8f4a08a8288246e_ps7q.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/0c05c2edcdff87bad8f4a08a8288246e_ps7q.pdf
 file_size: 51565
 file_type: application/pdf
 learning_resource_types: []

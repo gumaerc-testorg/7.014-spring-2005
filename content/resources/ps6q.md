@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on genetics of corn, drosophila melanogaster,
   blood types and mitosis and meiosis.
-file: /courses/7-014-introductory-biology-spring-2005/62a89f024fbd3e11bac202a45e8094d0_ps6q.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/62a89f024fbd3e11bac202a45e8094d0_ps6q.pdf
 file_size: 108502
 file_type: application/pdf
 learning_resource_types: []
