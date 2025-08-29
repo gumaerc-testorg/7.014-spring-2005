@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains descriptions of autotrophs and heterotrophs.
-file: /courses/7-014-introductory-biology-spring-2005/497cb02b38758e7ee6efebece7d6fc6d_lectur17_handout.pdf
+file: /ol-ocw-studio-app/courses/7-014-introductory-biology-spring-2005/497cb02b38758e7ee6efebece7d6fc6d_lectur17_handout.pdf
 file_size: 331763
 file_type: application/pdf
 learning_resource_types:
