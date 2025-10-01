@@ -10,7 +10,7 @@ uid: 2894eb2f-6445-f646-6eaf-906bf576ca99
 
 Reading assignments include numerous scientific articles, class handouts, and sections from the course text. The topics covered in the Freeman text are also sufficiently covered in any introductory level biology text book. The course text is meant to be a detailed reference source for students on the concepts that are highlighted in the lecture and section materials of the course
 
-Reading assignments for this courses used to include several readings from the [MIT Biology Hypertextbook](http://web.mit.edu/esgbio/www/), but these have been removed as that site is no longer active. At this time there are no plans to re-present the materials.
+Reading assignments for this courses used to include several readings from the {{% resource_link "0a1b0410-8aa9-4f81-bb21-90ea61a91428" "MIT Biology Hypertextbook" %}}, but these have been removed as that site is no longer active. At this time there are no plans to re-present the materials.
 
 Freeman, Scott. _Biological Science_. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 9780130819239.
 

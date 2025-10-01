@@ -32,7 +32,7 @@ Problem Set 1 ({{% resource_link 2b74cb9a-7aca-f350-a7cf-db780027b6b6 "PDF" %}})
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ({{% resource_link efe45d43-57c7-f43d-1674-1393cd30225f "PDF" %}}) Interactive protein structure viewing modules used for these problems may be found in the "[StarBiochem](http://star.mit.edu/biochem/index.html)" section of the MIT Software Tools for Academics & Researchers (STAR) site.
+Problem Set 2 ({{% resource_link efe45d43-57c7-f43d-1674-1393cd30225f "PDF" %}}) Interactive protein structure viewing modules used for these problems may be found in the "{{% resource_link "b27a1fda-9d5f-40f7-ab1f-3e8f7189665c" "StarBiochem" %}}" section of the MIT Software Tools for Academics & Researchers (STAR) site.
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link ea85fbd5-93eb-296a-da27-3fa0486e08c4 "PDF" %}})

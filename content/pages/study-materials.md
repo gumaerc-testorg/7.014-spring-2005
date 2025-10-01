@@ -98,6 +98,6 @@ Problem Set 8 ({{% resource_link 8eff9c24-9b09-d047-2eac-97510071ae67 "PDF" %}})
 
 {{< tableclose >}}
 
-[Online PCR animations](https://dnalc.cshl.edu/resources/animations/)
+{{% resource_link "818b5238-68d6-40a0-9e40-3cfdbe34b67a" "Online PCR animations" %}}
 
-[Star Biochem visualization tools](http://web.mit.edu/Star/biochem/)
+{{% resource_link "db92abc1-d4df-45f0-851a-a16f31b49837" "Star Biochem visualization tools" %}}
