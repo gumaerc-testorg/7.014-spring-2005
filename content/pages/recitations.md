@@ -62,7 +62,7 @@ Biochemistry: Molecules and Shapes ({{% resource_link 471a0044-ff0a-90f2-6c1f-8
 
 Biochemistry: Proteins ({{% resource_link 8768e4e8-8278-60b5-dde9-587cb5467974 "PDF" %}})
 
-Interactive protein structure viewing modules used for these problems may be found in the "[StarBiochem](http://star.mit.edu/biochem/index.html)" section of the MIT Software Tools for Academics & Researchers (STAR) site.
+Interactive protein structure viewing modules used for these problems may be found in the "{{% resource_link "b27a1fda-9d5f-40f7-ab1f-3e8f7189665c" "StarBiochem" %}}" section of the MIT Software Tools for Academics & Researchers (STAR) site.
 
 
 {{< tdclose >}}
